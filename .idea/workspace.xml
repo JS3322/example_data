@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d6f3773-d191-4c96-aadf-31b84f763512" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.script/aa.py" beforeDir="false" afterPath="$PROJECT_DIR$/.script/RancherIntall.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +35,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/js/Cleancode/example_data",
+    "last_opened_file_path": "/Users/js/Cleancode/example_management",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "아티팩트",
+    "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
@@ -98,7 +97,8 @@
       <workItem from="1695913699116" duration="2219000" />
       <workItem from="1695917035159" duration="162000" />
       <workItem from="1695917213423" duration="26000" />
-      <workItem from="1695917243645" duration="610000" />
+      <workItem from="1695917243645" duration="662000" />
+      <workItem from="1695918386446" duration="127000" />
     </task>
     <servers />
   </component>
