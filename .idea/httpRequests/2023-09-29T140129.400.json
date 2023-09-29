@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-09-29T05:01:29.271+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/v1/query-post"
+}

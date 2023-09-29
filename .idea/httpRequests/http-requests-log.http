@@ -1,0 +1,53 @@
+POST http://localhost:8080/api/v1/query-post
+{:
+metadata {:
+provider : "aws"
+}:
+}:
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-09-29T140407.400.html
+
+###
+
+GET http://localhost:8080/api/v1/query
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-09-29T140329.200.json
+
+###
+
+POST http://localhost:8080/api/v1/query-post
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-09-29T140301.400.json
+
+###
+
+GET http://localhost:8080/api/v1/query
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-09-29T140136.200.json
+
+###
+
+POST http://localhost:8080/api/v1/query-post
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.5)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-09-29T140129.400.json
+
+###
+
