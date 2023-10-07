@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d6f3773-d191-4c96-aadf-31b84f763512" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.http/localhost.http" beforeDir="false" afterPath="$PROJECT_DIR$/.http/localhost.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker/dockerfile_mongodb" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/dockerfile_mongodb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mongosql/console.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,30 +44,31 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/js/Cleancode/example_management/docker&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/js/Library/Application Support/JetBrains/IntelliJIdea2022.3/consoles/db/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mongo&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$APPLICATION_CONFIG_DIR$/consoles/db/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3" />
       <recent name="$PROJECT_DIR$/docker" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/common" />
@@ -76,7 +79,10 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="HTTP 요청.localhost | mongo test 100">
+  <component name="RunManager" selected="HTTP 요청.localhost | mongo groupby test">
+    <configuration name="localhost | mongo groupby test" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" index="3" requestIdentifier="mongo groupby test" runType="단일 요청 실행">
+      <method v="2" />
+    </configuration>
     <configuration name="localhost | mongo test 100" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" requestIdentifier="mongo test 100" runType="단일 요청 실행">
       <method v="2" />
     </configuration>
@@ -107,8 +113,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP 요청.localhost | mongo test 100" />
+        <item itemvalue="HTTP 요청.localhost | mongo groupby test" />
         <item itemvalue="HTTP 요청.localhost | mongo test 200" />
+        <item itemvalue="HTTP 요청.localhost | mongo test 100" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -129,7 +136,8 @@
       <workItem from="1695963307480" duration="727000" />
       <workItem from="1696032346730" duration="476000" />
       <workItem from="1696064440560" duration="173000" />
-      <workItem from="1696237366202" duration="116000" />
+      <workItem from="1696237366202" duration="237000" />
+      <workItem from="1696663290678" duration="3678000" />
     </task>
     <servers />
   </component>
