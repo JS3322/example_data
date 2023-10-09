@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ include "mongodb-helm-chart.fullname" . }}
+  labels:
+    {{- include "mongodb-helm-chart.labels" . | nindent 4 }}
+spec:
+  type: {{ .Values.service.type }}
+  ports:
+    - port: {{ .Values.service.port }}
+      targetPort: http
+      protocol: TCP
+  selector:
+    {{- include "mongodb-helm-chart.selectorLabels" . | nindent 4 }}
