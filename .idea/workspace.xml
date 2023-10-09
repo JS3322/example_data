@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d6f3773-d191-4c96-aadf-31b84f763512" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.http/localhost.http" beforeDir="false" afterPath="$PROJECT_DIR$/.http/localhost.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mongosql/console.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/js/Library/Application Support/JetBrains/IntelliJIdea2022.3/consoles/db/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3",
+    "last_opened_file_path": "/Users/js/cleancode/example_sass",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -137,7 +135,8 @@
       <workItem from="1696032346730" duration="476000" />
       <workItem from="1696064440560" duration="173000" />
       <workItem from="1696237366202" duration="237000" />
-      <workItem from="1696663290678" duration="3678000" />
+      <workItem from="1696663290678" duration="3777000" />
+      <workItem from="1696849739758" duration="779000" />
     </task>
     <servers />
   </component>
