@@ -12,3 +12,14 @@ GET http://localhost:8080/api/v1/query
 
 ### mongo groupby test
 GET http://localhost:8080/api/v1/group
+
+### mongo groupby test
+POST http://localhost:8080/api/v1/group
+Content-Type: application/json
+
+{
+  "requestMatchParameter": {
+    "test1": "test2",
+    "test4": "test4"
+  }
+}

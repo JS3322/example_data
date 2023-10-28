@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d6f3773-d191-4c96-aadf-31b84f763512" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.http/localhost.http" beforeDir="false" afterPath="$PROJECT_DIR$/.http/localhost.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.script/RancherIntall.py" beforeDir="false" afterPath="$PROJECT_DIR$/kebe/RancherIntall.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,28 +43,28 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/js/cleancode/example_sass",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/js/cleancode/example_sass&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mongo"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$APPLICATION_CONFIG_DIR$/consoles/db/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3" />
@@ -76,8 +78,14 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="HTTP 요청.localhost | mongo groupby test">
+  <component name="RunManager" selected="HTTP 요청.localhost | mongo groupby test#1">
     <configuration name="localhost | mongo groupby test" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" index="3" requestIdentifier="mongo groupby test" runType="단일 요청 실행">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost | mongo groupby test#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" index="3" requestIdentifier="mongo groupby test#1" runType="단일 요청 실행">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost | mongo groupby test#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" index="4" requestIdentifier="mongo groupby test#2" runType="단일 요청 실행">
       <method v="2" />
     </configuration>
     <configuration name="localhost | mongo test 100" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" requestIdentifier="mongo test 100" runType="단일 요청 실행">
@@ -86,34 +94,13 @@
     <configuration name="localhost | mongo test 200" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" index="2" requestIdentifier="mongo test 200" runType="단일 요청 실행">
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="example_management" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP 요청.localhost | mongo groupby test" />
+        <item itemvalue="HTTP 요청.localhost | mongo groupby test#1" />
         <item itemvalue="HTTP 요청.localhost | mongo test 200" />
+        <item itemvalue="HTTP 요청.localhost | mongo groupby test#2" />
+        <item itemvalue="HTTP 요청.localhost | mongo groupby test" />
         <item itemvalue="HTTP 요청.localhost | mongo test 100" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +122,11 @@
       <workItem from="1696064440560" duration="173000" />
       <workItem from="1696237366202" duration="237000" />
       <workItem from="1696663290678" duration="3777000" />
-      <workItem from="1696849739758" duration="2045000" />
+      <workItem from="1696849739758" duration="2684000" />
+      <workItem from="1697192024845" duration="1263000" />
+      <workItem from="1697356038565" duration="1529000" />
+      <workItem from="1698045017728" duration="609000" />
+      <workItem from="1698535854396" duration="919000" />
     </task>
     <servers />
   </component>
