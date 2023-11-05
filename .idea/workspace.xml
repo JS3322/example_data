@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3d6f3773-d191-4c96-aadf-31b84f763512" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.http/localhost.http" beforeDir="false" afterPath="$PROJECT_DIR$/.http/localhost.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -78,7 +78,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="HTTP 요청.localhost | mongo groupby test#1">
+  <component name="RunManager" selected="HTTP 요청.localhost | mongo test 200#1">
     <configuration name="localhost | mongo groupby test" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" index="3" requestIdentifier="mongo groupby test" runType="단일 요청 실행">
       <method v="2" />
     </configuration>
@@ -88,19 +88,19 @@
     <configuration name="localhost | mongo groupby test#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" index="4" requestIdentifier="mongo groupby test#2" runType="단일 요청 실행">
       <method v="2" />
     </configuration>
-    <configuration name="localhost | mongo test 100" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" requestIdentifier="mongo test 100" runType="단일 요청 실행">
+    <configuration name="localhost | mongo test 200" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" index="2" requestIdentifier="mongo test 200" runType="단일 요청 실행">
       <method v="2" />
     </configuration>
-    <configuration name="localhost | mongo test 200" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" index="2" requestIdentifier="mongo test 200" runType="단일 요청 실행">
+    <configuration name="localhost | mongo test 200#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/.http/localhost.http" requestIdentifier="mongo test 200#1" runType="단일 요청 실행">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP 요청.localhost | mongo groupby test#1" />
+        <item itemvalue="HTTP 요청.localhost | mongo test 200#1" />
         <item itemvalue="HTTP 요청.localhost | mongo test 200" />
+        <item itemvalue="HTTP 요청.localhost | mongo groupby test#1" />
         <item itemvalue="HTTP 요청.localhost | mongo groupby test#2" />
         <item itemvalue="HTTP 요청.localhost | mongo groupby test" />
-        <item itemvalue="HTTP 요청.localhost | mongo test 100" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +126,8 @@
       <workItem from="1697192024845" duration="1263000" />
       <workItem from="1697356038565" duration="1529000" />
       <workItem from="1698045017728" duration="609000" />
-      <workItem from="1698535854396" duration="919000" />
+      <workItem from="1698535854396" duration="2844000" />
+      <workItem from="1699173238358" duration="100000" />
     </task>
     <servers />
   </component>
