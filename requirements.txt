@@ -5,6 +5,7 @@
 pyinstaller
 pymongo
 pandas
+ssl
 
 # Use ----------------------------------------
 # pyinstaller [PY_FILENAME]
