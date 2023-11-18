@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d6f3773-d191-4c96-aadf-31b84f763512" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.http/localhost.http" beforeDir="false" afterPath="$PROJECT_DIR$/.http/localhost.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f0036c02-2b0d-4022-b6d5-39a7ef7fe7a3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +124,8 @@
       <workItem from="1697356038565" duration="1529000" />
       <workItem from="1698045017728" duration="609000" />
       <workItem from="1698535854396" duration="2844000" />
-      <workItem from="1699173238358" duration="100000" />
+      <workItem from="1699173238358" duration="743000" />
+      <workItem from="1699704650982" duration="36000" />
     </task>
     <servers />
   </component>
