@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d6f3773-d191-4c96-aadf-31b84f763512" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.docker/dockerfile_mongodb" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/dockerfile_mongodb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="3d6f3773-d191-4c96-aadf-31b84f763512" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +19,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="local" />
@@ -135,12 +132,30 @@
       <workItem from="1700289381248" duration="329000" />
       <workItem from="1700289739657" duration="1647000" />
       <workItem from="1700295458066" duration="372000" />
-      <workItem from="1700295899186" duration="58000" />
+      <workItem from="1700295899186" duration="225000" />
+      <workItem from="1700788668372" duration="723000" />
+      <workItem from="1700789524592" duration="15000" />
+      <workItem from="1703035615589" duration="151000" />
+      <workItem from="1703036860294" duration="702000" />
+      <workItem from="1703068323931" duration="1528000" />
+      <workItem from="1703894609441" duration="163000" />
+      <workItem from="1703894806769" duration="1370000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/example_data$main.coverage" NAME="main 커버리지 결과" MODIFIED="1695914659503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
